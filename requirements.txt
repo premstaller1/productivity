@@ -1,0 +1,5 @@
+pandas_profiling==3.5.0
+plotly_express==0.4.1
+ipywidgets==8.0.2
+MultiColumnLabelEncoder
+xgboost==1.7.1
